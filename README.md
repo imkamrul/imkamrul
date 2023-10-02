@@ -12,7 +12,7 @@
 ### aboutMe.js
 
 ```javascript
-const fring = {
+const kamrul_hasan = {
   pronouns: "he" | "him",
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["web_dev", "tech", "music", "sports"],
