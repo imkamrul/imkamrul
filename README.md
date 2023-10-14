@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Kamrul Hasan, Software Engineer
+## Hi there 👋 Welcome to my GitHub! I'm Kamrul Hasan, a Software Engineer
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/imkamrul98/">
@@ -30,9 +30,4 @@ const kamrul_hasan = {
 };
 ```
 
-### 📈 Github Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imkamrul&show_icons=true&theme=vue-dark&line_height=33" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkamrul&theme=vue-dark&line_height=10">
-</p>
